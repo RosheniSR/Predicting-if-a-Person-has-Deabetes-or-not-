@@ -1,5 +1,4 @@
-Diabetes Prediction Project
-Project Overview
+Diabetes Prediction Project Project Overview  
 This project aims to predict whether a person has diabetes or not based on specific health metrics and medical data. Using a given dataset, the goal is to apply machine learning techniques to build a predictive model that can accurately classify individuals as diabetic or non-diabetic. This project showcases the application of data preprocessing, feature selection, model training, evaluation, and optimization in a healthcare context.
 
 The motivation behind this project is to explore how Artificial Intelligence and Data Science can help in early detection and diagnosis, potentially reducing the risk and complications associated with diabetes. By leveraging machine learning, we aim to develop a tool that can assist healthcare professionals in making data-driven decisions.
@@ -8,7 +7,7 @@ Workflow
 Data Collection and Understanding
 
 The dataset used in this project contains features such as glucose levels, insulin, BMI, age, and other health metrics that may influence diabetes risk.
-You can find the dataset at: [Link to dataset if public].
+
 Data Preprocessing
 
 Handle missing or incomplete data by either imputing missing values or removing invalid entries.
